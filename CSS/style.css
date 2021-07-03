@@ -57,8 +57,8 @@ html {
 
 .hero {
   min-height: 90vh;
-  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(96, 161, 187, 0.3)), to(transparent)), url(/img/eSports.jpg);
-  background-image: linear-gradient(to right bottom, rgba(96, 161, 187, 0.3), transparent), url(/img/eSports.jpg);
+  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(96, 161, 187, 0.3)), to(transparent)), url(../img/eSports.jpg);
+  background-image: linear-gradient(to right bottom, rgba(96, 161, 187, 0.3), transparent), url(../img/eSports.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
